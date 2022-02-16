@@ -1,4 +1,5 @@
 # Sysoteric
 ### 📑 Todo
-📌 Making simple parser. <br>
-📌 Making sysoteric language. <br>
+📌 Making sysoteric language <br>
+
+☑️ ~~Making simple lexer~~ <br>
